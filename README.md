@@ -1,0 +1,1 @@
+# Comparison-of-Global-vs-Specialized-in-Deep-Action-Recognition
